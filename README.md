@@ -1,7 +1,7 @@
 # Spring Boot MongoDB React Fullstack App
 ## Download
-```git clone https://github.com/automateopsprojects/spring-boot-react-mongodb-crud.git```
-```cd spring-boot-mongodb-react-crud```
+```git clone https://github.com/Anshuman-QwikSkills/aws-devops-mini-project-6```
+```cd aws-devops-mini-project-6````
 ## Open Terminal
 ```cd app```
 ## Install NPM Dependencies 
